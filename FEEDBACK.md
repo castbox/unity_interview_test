@@ -8,3 +8,5 @@
 
 ## 其他
 > 也许你还有其他的想法和建议
+
+1.建议去掉 RollingPlane 上面的 MeshCollider，这样能多一个考点（如何做不基于 UI 的点击响应），这里的 MeshCollider 其实算是一种暗示
